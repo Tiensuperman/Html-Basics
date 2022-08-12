@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+    color: aliceblue;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    /* Same as above */
+    font: normal 12px Helvetica;
+
+    line-height: 10px;
+    margin: 0;
+}
+
+.box-1{
+    background-color: darkslategrey;
+    color: azure;
+}
